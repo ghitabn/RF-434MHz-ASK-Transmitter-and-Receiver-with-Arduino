@@ -24,7 +24,7 @@ References:
 Date:         April 29, 2017
 
 Author:       - RadioHead (http://www.airspayce.com/mikem/arduino/RadioHead/),
-              modified by G. Gainaru, http://www.arduinolab.net
+              modified by Gheorghe G., http://www.arduinolab.net
 ------------------------------------------------------------------------------*/
 
 #include <RH_ASK.h>
